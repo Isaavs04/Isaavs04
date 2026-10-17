@@ -108,7 +108,7 @@ Meu nome é Isabelle, tenho 18 anos, concluí o ensino médio com o técnico em 
 <p align="center">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Isaavs04&show_icons=true&include_all_commits=true&theme=midnight-purple" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=Isaavs04&hide_title=true&langs_count=4&theme=midnight-purple" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=Isaavs04&hide_title=true&langs_count=5&theme=midnight-purple" />
 </p>
 
 ---
