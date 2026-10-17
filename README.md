@@ -71,6 +71,8 @@ Meu nome é Isabelle, tenho 18 anos, concluí o ensino médio técnico em desenv
 ![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Isaavs04&hide_title=true&langs_count=4&theme=midnight-purple)
 
 
-
-
-<img src="https://raw.githubusercontent.com/Isaavs04/Isaavs04/output/dist/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Isaavs04/Isaavs04/output/dist/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Isaavs04/Isaavs04/output/dist/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Isaavs04/Isaavs04/output/dist/github-contribution-grid-snake.svg">
+</picture>
