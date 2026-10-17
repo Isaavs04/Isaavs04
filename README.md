@@ -73,4 +73,4 @@ Meu nome é Isabelle, tenho 18 anos, concluí o ensino médio técnico em desenv
 
 
 
-<img src="https://raw.githubusercontent.com/Isaavs04/Isaavs04/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/Isaavs04/Isaavs04/output/dist/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
