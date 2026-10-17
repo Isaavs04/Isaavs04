@@ -24,6 +24,12 @@ Meu nome é Isabelle, tenho 18 anos, concluí o ensino médio com o técnico em 
 />
 <br>
 <br>
+<div>
+<a href="https://www.instagram.com/dev_avs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/isabelle-avelino-dos-santos-5523622a9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://isaavs.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-%23FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
+<a href="https://www.behance.net/isaavs04" target="_blank"><img src="https://img.shields.io/badge/Behance-%231769FF?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+</div>
 
 ---
 
@@ -82,6 +88,14 @@ Meu nome é Isabelle, tenho 18 anos, concluí o ensino médio com o técnico em 
     title = "HTML"
     width = "30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+
+<img 
+     align = "left"
+    alt = "HTML"
+    title = "HTML"
+    width = "30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
 />
 
 <br> 
