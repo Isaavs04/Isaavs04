@@ -1,11 +1,36 @@
-# ⋆⭒˚.⋆ Isabelle Avelino dos Santos⋆⭒˚.⋆
+# 𖤐⭒๋࣭⭑ Isabelle Avelino dos Santos ⋆⭒˚.⋆
 
 **`Estudante de desenvolvimento de sistemas`**
 
 Meu nome é Isabelle, tenho 18 anos, concluí o ensino médio com o técnico em Programação de Jogos Digitais na ETEC de Peruíbe, atualmente curso Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo(IFSP). Estou treinando desenvolvimento avidamente, realizando diversos projetos, de softwares a jogos, costumo postar meus jogos no meu site do "[Itch.io](https://isaavs.itch.io/)" 
 
+**`Instituições de ensino`**
+
+<img 
+    align = "left"
+    alt = "HTML"
+    title = "HTML"
+    width = "70px"
+    style = "padding-right: 10px;"
+    src="https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/1/2022/08/etec-identidade.jpg" 
+/>
+<img 
+    align = "left"
+    alt = "HTML"
+    title = "HTML"
+    width = "45x"
+    style = "padding-right: 10px;"
+    src="https://cdn.tecconcursos.com.br/figuras/7f5b5792-6f8a-4419-9c9a-c5c05c065539" 
+/>
+<br>
+<br>
+
+
+. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
+
 ---
-### Linguagens e Tecnologias
+
+### ✶ Linguagens e Tecnologias
 
 <img 
     align = "left"
@@ -65,9 +90,9 @@ Meu nome é Isabelle, tenho 18 anos, concluí o ensino médio com o técnico em 
 <br> 
 <br>
 
---- 
+---
 
-### Estatísticas e Linguagens
+### ✶ Estatísticas e Linguagens
 
 <p align="center">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Isaavs04&show_icons=true&include_all_commits=true&theme=midnight-purple" />
@@ -77,3 +102,5 @@ Meu nome é Isabelle, tenho 18 anos, concluí o ensino médio com o técnico em 
 
 ---
 <img src="https://raw.githubusercontent.com/Isaavs04/Isaavs04/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+
+---
