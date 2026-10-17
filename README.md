@@ -10,7 +10,7 @@ Meu nome é Isabelle, tenho 18 anos, concluí o ensino médio com o técnico em 
     align = "left"
     alt = "HTML"
     title = "HTML"
-    width = "70px"
+    width = "55px"
     style = "padding-right: 10px;"
     src="https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/1/2022/08/etec-identidade.jpg" 
 />
@@ -18,15 +18,12 @@ Meu nome é Isabelle, tenho 18 anos, concluí o ensino médio com o técnico em 
     align = "left"
     alt = "HTML"
     title = "HTML"
-    width = "45x"
+    width = "35x"
     style = "padding-right: 10px;"
     src="https://cdn.tecconcursos.com.br/figuras/7f5b5792-6f8a-4419-9c9a-c5c05c065539" 
 />
 <br>
 <br>
-
-
-. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
 
 ---
 
@@ -103,4 +100,4 @@ Meu nome é Isabelle, tenho 18 anos, concluí o ensino médio com o técnico em 
 ---
 <img src="https://raw.githubusercontent.com/Isaavs04/Isaavs04/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 
----
+. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁. ⟡ ݁ . ⊹ ₊ ݁.
