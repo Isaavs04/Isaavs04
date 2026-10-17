@@ -69,16 +69,11 @@ Meu nome é Isabelle, tenho 18 anos, concluí o ensino médio com o técnico em 
 
 ### Estatísticas e Linguagens
 
-<table style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td style="border: none; padding-right: 30px;">
-      <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Isaavs04&show_icons=true&include_all_commits=true&theme=midnight-purple" />
-    </td>
-    <td style="border: none;">
-      <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=Isaavs04&hide_title=true&langs_count=4&theme=midnight-purple" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Isaavs04&show_icons=true&include_all_commits=true&theme=midnight-purple" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=Isaavs04&hide_title=true&langs_count=4&theme=midnight-purple" />
+</p>
 
 ---
 <img src="https://raw.githubusercontent.com/Isaavs04/Isaavs04/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
