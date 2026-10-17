@@ -2,7 +2,7 @@
 
 **`Estudante de desenvolvimento de sistemas`**
 
-Meu nome é Isabelle, tenho 18 anos, concluí o ensino médio técnico em desenvolvimento de jogos digitais na ETEC de Peruíbe, atualmente curso tecnologia em análise e desenvolvimento de sistemas no Instituto Federal de São Paulo. Estou treinando desenvolvimento avidamente, fazendo vários projetos de desenvolvimento de software a jogos, posto meus jogos no meu site do "[Itch.io](https://isaavs.itch.io/)" 
+Meu nome é Isabelle, tenho 18 anos, concluí o ensino médio com o técnico em Programação de Jogos digitais na ETEC de Peruíbe, atualmente curso Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo(IFSP). Estou treinando desenvolvimento avidamente, realizando diversos projetos, de softwares a jogos, costumo postar meus jogos no meu site do "[Itch.io](https://isaavs.itch.io/)" 
 
 ---
 ### Linguagens e Tecnologias
@@ -65,10 +65,14 @@ Meu nome é Isabelle, tenho 18 anos, concluí o ensino médio técnico em desenv
 <br> 
 <br>
 
+--- 
 ### Estátisticas
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Isaavs04&show_icons=true&include_all_commits=true&theme=midnight-purple)
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Isaavs04&hide_title=true&langs_count=4&theme=midnight-purple)
+---
 
+### Utilização de linguagens
+
+![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Isaavs04&hide_title=true&langs_count=4&theme=midnight-purple)
 
 <img src="https://raw.githubusercontent.com/Isaavs04/Isaavs04/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
