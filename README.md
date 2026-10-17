@@ -2,7 +2,7 @@
 
 **`Estudante de desenvolvimento de sistemas`**
 
-Meu nome é Isabelle, tenho 18 anos, concluí o ensino médio com o técnico em Programação de Jogos digitais na ETEC de Peruíbe, atualmente curso Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo(IFSP). Estou treinando desenvolvimento avidamente, realizando diversos projetos, de softwares a jogos, costumo postar meus jogos no meu site do "[Itch.io](https://isaavs.itch.io/)" 
+Meu nome é Isabelle, tenho 18 anos, concluí o ensino médio com o técnico em Programação de Jogos Digitais na ETEC de Peruíbe, atualmente curso Tecnologia em Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo(IFSP). Estou treinando desenvolvimento avidamente, realizando diversos projetos, de softwares a jogos, costumo postar meus jogos no meu site do "[Itch.io](https://isaavs.itch.io/)" 
 
 ---
 ### Linguagens e Tecnologias
